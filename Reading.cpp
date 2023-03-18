@@ -12,5 +12,5 @@ void Reading() {
   ReadColourSensorsOutput = 2;
   CalibrateColourSensorValues(LowerBound, UpperBound);
 
-  delay(50);
+  delay(50); // fredrick is a monkey
 }
